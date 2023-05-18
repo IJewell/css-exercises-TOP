@@ -1,0 +1,23 @@
+/* style.css */
+
+.p1 {
+    color: black;
+    background-color: rgba(255,0,0,0.3);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font-adjust {
+    font-size: 24px;
+}
+
+#i1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#i2 {
+    color: black;
+    background-color: #00ff0080;
+    font-size: 24px;
+    font-weight: 700;
+}
